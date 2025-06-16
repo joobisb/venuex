@@ -10,6 +10,13 @@ A sports venue finder that uses AI to help users discover and book cricket, foot
 - **Real-time Scraping**: Live venue availability and booking information
 - **Location Coverage**: Mumbai, Delhi, Bangalore, Kakkanad, and more
 
+## Quick Demo
+
+
+https://github.com/user-attachments/assets/4a76cc9d-5bc0-44f1-a0cd-f7dd9af6894e
+
+
+
 ## Quick Setup
 
 ### Backend (FastAPI)
