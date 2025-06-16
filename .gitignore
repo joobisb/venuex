@@ -1,0 +1,9 @@
+venv/
+.vscode/
+venuex-core/venv/
+.env
+ui/node_modules
+**/__pycache__/
+__pycache__/
+ui/.bolt
+venuex-core/**/__pycache__/**
